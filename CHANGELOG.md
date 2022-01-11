@@ -1,6 +1,11 @@
 
 
 ## 2022-01-11 05:28:00
+
+### SaveWorldEveryMinutes
+> Frekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.
+> 30 helyett 5
+
 ### ItemNumbersLimitPerContainer / 
 > 50 helyett 100
 

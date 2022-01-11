@@ -11,7 +11,7 @@
 > 50 helyett 100
 
 ### G-Portal Auto-Restart:
-> 00:00 óra
+> 00:00 óra  
 > 12:00 óra
 
 ## 2022-01-07 23:23:30

@@ -4,6 +4,10 @@
 > A túlságosan frekventált loot respawn miatt.
 > 48 (óra) helyett 0 (azaz a játék által definiált érték, ami körülbelül 30 in-game nap)
 
+### SaveWorldEveryMinutes
+> Mégfrekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  
+> 5 helyett 2
+
 ## 2022-01-11 05:28:00
 
 ### SaveWorldEveryMinutes

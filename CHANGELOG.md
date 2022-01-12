@@ -2,7 +2,8 @@
 
 ### HoursForLootRespawn
 > A túlságosan frekventált loot respawn miatt.  
-> 48 (óra) helyett 0 (azaz a játék által definiált érték, ami körülbelül 30 in-game nap)
+> 48 (óra) helyett 0  
+> A játék által definiált alapérték, ami körülbelül 30 in-game nap
 
 ### SaveWorldEveryMinutes
 > Mégfrekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  

@@ -1,12 +1,12 @@
 ## 2022-01-12 08:24:23
 
 ### HoursForLootRespawn
-> A túlságosan frekventált loot respawn miatt.
+> A túlságosan frekventált loot respawn miatt.  
 > 48 (óra) helyett 0 (azaz a játék által definiált érték, ami körülbelül 30 in-game nap)
 
 ### SaveWorldEveryMinutes
 > Mégfrekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  
->> Nem azonos a játékosok mentésével, így a játékosok / járművek között lehetséges minimális eltérés szerverrestartoknál
+>> Nem azonos a játékosok mentésével, így a játékosok / járművek között lehetséges minimális eltérés szerverrestartoknál  
 > 5 helyett 2
 
 ## 2022-01-11 05:28:00

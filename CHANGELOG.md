@@ -7,14 +7,15 @@
 >#### Új: 0
 >
 >### SaveWorldEveryMinutes
+> ---
 >> Mégfrekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  
 >>> Nem azonos a játékosok mentésével, így a játékosok / járművek között lehetséges minimális eltérés szerverrestartoknál  
 >### Régi: 5
 >### Új: 2
----
 ## 2022-01-11 05:28:00
 >
 >### SaveWorldEveryMinutes
+> ---
 >> Frekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  
 >### Régi: 30
 >### Új: 5

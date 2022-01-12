@@ -1,4 +1,8 @@
+## 2022-01-12 08:24:23
 
+### HoursForLootRespawn
+> A túlságosan frekventált loot respawn miatt.
+> 48 (óra) helyett 0 (azaz a játék által definiált érték, ami körülbelül 30 in-game nap)
 
 ## 2022-01-11 05:28:00
 

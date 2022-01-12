@@ -19,7 +19,7 @@
 #### Régi: 30
 #### Új: 5
 
-### ItemNumbersLimitPerContainer | 50 > 100
+### ItemNumbersLimitPerContainer
 > Pl mert ha kibontasz egy doboz szöget, abba van 50 szög, akkor egy nagy ládába / kocsiba stb az az 50 szög belemegy és kész  
 #### Régi: 50
 #### Új: 100

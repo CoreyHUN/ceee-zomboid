@@ -5,7 +5,7 @@
 > A játék által definiált alapérték, ami körülbelül 30 in-game nap
 #### Régi: 48
 #### Új: 0
-
+---
 ### SaveWorldEveryMinutes
 > Mégfrekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  
 >> Nem azonos a játékosok mentésével, így a játékosok / járművek között lehetséges minimális eltérés szerverrestartoknál  

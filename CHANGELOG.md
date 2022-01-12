@@ -1,8 +1,8 @@
 ## 2022-01-12 08:24:23
 
 ### HoursForLootRespawn
-### Régi: 48
-### Új: 0
+#### Régi: 48
+#### Új: 0
 > A túlságosan frekventált loot respawn miatt.  
 > A játék által definiált alapérték, ami körülbelül 30 in-game nap
 

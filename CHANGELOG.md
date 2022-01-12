@@ -8,7 +8,7 @@
 
 ### SaveWorldEveryMinutes
 > Mégfrekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  
->> Nem azonos a játékosok mentésével, így a játékosok / járművek között lehetséges minimális eltérés szerverrestartoknál  
+> **Nem azonos a játékosok mentésével, így a játékosok / járművek között lehetséges minimális eltérés szerverrestartoknál**
 #### Régi: 5
 #### Új: 2
 ---

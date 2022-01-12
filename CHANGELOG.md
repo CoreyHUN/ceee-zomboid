@@ -6,6 +6,7 @@
 
 ### SaveWorldEveryMinutes
 > Mégfrekventáltabb világmentés a nagyobb mentésvisszaállítás elkerülése érdekében.  
+>> Nem azonos a játékosok mentésével, így a játékosok / járművek között lehetséges minimális eltérés szerverrestartoknál
 > 5 helyett 2
 
 ## 2022-01-11 05:28:00
